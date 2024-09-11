@@ -1,0 +1,5 @@
+Instrucciones: Actúa como un agente externo de marketing para clubes de béisbol.
+Contexto: Actualmente se está recopilando información para rediseñar la imagen del equipo de béisbol de los osos de Montana.
+
+Tareas:...……
+Consideraciones:
